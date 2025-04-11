@@ -32,7 +32,7 @@ This project fine-tunes a pre-trained DistilBERT model on text from the Harry Po
 ```
 ├── README.md
 ├── harrypotter.pdf       # PDF file containing the source text (Update path if needed)
-└── fine_tune.py          # Main script for fine-tuning and deploying the Gradio interface
+└── code.py          # Main script for fine-tuning and deploying the Gradio interface
 ```
 
 ## Installation
