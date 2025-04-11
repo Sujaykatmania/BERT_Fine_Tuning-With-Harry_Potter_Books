@@ -82,10 +82,10 @@ This approach makes it intuitive to compare our fine-tuned model with the origin
 
 Below are example screenshots of the output from the Gradio interface:
 
-![Interface Screenshot 1](![image](https://github.com/user-attachments/assets/a4386453-2067-4dc5-9416-afbd1b493a6c))
+![Interface Screenshot 1]![image](https://github.com/user-attachments/assets/a4386453-2067-4dc5-9416-afbd1b493a6c)
 *An example inference where the model predicts the most probable tokens for the provided masked sentence.*
 
-![Interface Screenshot 2](![image](https://github.com/user-attachments/assets/f0e36eae-5364-4924-adfd-4ee43a7f5637))
+![Interface Screenshot 2]![image](https://github.com/user-attachments/assets/f0e36eae-5364-4924-adfd-4ee43a7f5637)
 *A detailed view showing the top-k predictions with probabilities for each masked token.*
 
 > **Note:** Replace the placeholder image paths (`images/interface1.png`, `images/interface2.png`) with the correct paths to your output images.
